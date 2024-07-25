@@ -14,7 +14,7 @@ global.__filename = function filename(pathURL = import.meta.url, rmPrefix = plat
 const __dirname = global.__dirname(import.meta.url)
 
 global.owner = [
-['5493873687620', '✨ YartexBot-MD', true],
+['51978194933', '✨ SysSolutions-MD', true],
 ['542215034412'], 
 ['593968263524'],
 ['595976126756'],
@@ -23,15 +23,15 @@ global.owner = [
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = '' //Ejemplo: +59309090909
+global.botNumberCode = '+51978194933' //Ejemplo: +59309090909
 global.confirmCode = ''
 
 global.suittag = ['5214531287294']
-global.mods = []
-global.prems = []
+global.mods = ['51978194933']
+global.prems = ['978194933']
 
 //Solo desarrolladores aprobados
-global.isdev = [['542215034412'], ['593968263524'], ['573012482597'], ['5492215034412'], ['5214434703586'], ['595976126756']]
+global.isdev = [['51978194933'], ['593968263524'], ['573012482597'], ['5492215034412'], ['5214434703586'], ['595976126756']]
 
 //Aqui encuentras los nombres del bot 
 global.packname = 'ʏᴀʀᴛᴇx ʙᴏᴛ ᴍᴅ ✨'
@@ -48,7 +48,7 @@ global.baileys = '@whiskeysockets/baileys'
 global.lenguaje = 'Español'
 global.menudi = ['⛶','❏','⫹⫺']
 global.dev = 'GataNina-Li'
-global.devnum = '+593 96 826 3524'
+global.devnum = '+51978194933'
 
 // Diseños 
 global.dis = ':⁖֟⊱┈֟፝❥ '
