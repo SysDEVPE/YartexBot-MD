@@ -1,7 +1,7 @@
 {
 "name": "YartexBot-MD",
 "description": "Bot de WhatsApp con tematica Yaoi/Bl hecho por fans para fans.",
-"repository": "https://github.com/GataNina-Li/YartexBot-MD",
+"repository": "https://github.com/SysDEVPE/YartexBot-MD",
 "logo": "https://telegra.ph/file/3f00e26dcd5dcd09a68a1.jpg",
 "keywords": ["bot", "whatsapp", "whatsapp-bot", "boyslove", "yartex-bot-md", "yaoi"],
 "buildpacks": [
